@@ -1,0 +1,2 @@
+defmodule Automation do
+end
