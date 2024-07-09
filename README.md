@@ -1,6 +1,9 @@
 # Automation
 
-**TODO: Add description**
+some pc automation stuff
+
+
+Bakeware releases don't work at the moment! use normal mix releases
 
 ## Installation
 
@@ -31,21 +34,4 @@ As this is a windows-focused application, we need to install some tooling first.
    ```bash
    mix release
    ```
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `automation` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:automation, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/automation>.
 
